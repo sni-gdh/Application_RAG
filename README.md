@@ -263,8 +263,3 @@ Interested in:
 * System Design
 * Distributed AI Systems
 
----
-
-⭐ If you found this project useful, consider **starring the repository**.
-
----
