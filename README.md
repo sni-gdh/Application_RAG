@@ -235,7 +235,7 @@ Query Time
 ---
 # Output_Image
 <p align="center">
-  <img src="" width="700">
+  <img src="Screenshot 2026-03-15 203359.png" width="700">
 </p>
 ---
 
